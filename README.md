@@ -1,4 +1,6 @@
-# Confidential Document Analyst
+# Sovereignty Shield – Confidential Document Analyst
+
+> If you are looking for the local/cloud router submission, see https://github.com/yggie/functiongemma-hackathon
 
 A local-first forensic analysis tool that scans sensitive communications — chat logs, emails, PDFs — for indicators of trafficking, abuse, scams, and coercion. All inference runs entirely on-device using a 1.2B parameter language model via the [Cactus Compute Engine](https://github.com/cactus-compute). No data ever leaves the machine.
 
