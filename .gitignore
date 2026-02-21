@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+frontend/node_modules/
+frontend/dist/
+.env
+*.egg-info/
+data/
+examples/.test_data/
+examples/output/
+examples/*.txt
+.claude/
+CLAUDE.md
+.DS_STORE
